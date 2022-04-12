@@ -1,0 +1,21 @@
+.footerBlock {
+    height: 200px;
+    background-color: #d5aea1;
+}
+
+
+.footerContainer {
+    flex-direction: column;
+}
+
+.title {
+    background-color: #b3d2c9;
+}
+
+.footer {
+    width: 50%;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-evenly;
+
+}
